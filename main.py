@@ -21,7 +21,6 @@ class VideoRequest(BaseModel):
 class TaskStatus(BaseModel):
     task_id: str
     status: str
-    download_url: Optional[str] = None
 
 async def download_and_convert(url: str, task_id: str):
     try:
