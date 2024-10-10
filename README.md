@@ -75,7 +75,7 @@ Once the server is running, you can access the interactive API documentation at:
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License]([LICENSE](https://opensource.org/license/mit))
 
 ## Contributing
 
