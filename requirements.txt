@@ -1,0 +1,5 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+yt-dlp==2021.12.1
+redis==3.5.3
+pydantic==1.8.2
