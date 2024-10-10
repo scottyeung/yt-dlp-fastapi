@@ -20,7 +20,7 @@ This FastAPI-based application allows users to convert YouTube videos to MP3 aud
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/youtube-to-mp3-api.git
+   git clone https://github.com/scottyeung/youtube-to-mp3-api.git
    cd youtube-to-mp3-api
    ```
 
